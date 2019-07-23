@@ -1,0 +1,15 @@
+h1 {
+  font-style: italic;
+  font-family: 'Fruktur', cursive;
+  color: #003cb3;
+  text-shadow: 2px 2px #79d2a6;
+  text-align: center;
+  font-size: 60px;
+}
+
+h2 {
+  font-family: 'Roboto', sans-serif;
+  color: black;
+  text-align: center;
+  font-size: 30px;
+}
